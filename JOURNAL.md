@@ -21,3 +21,11 @@ I worked on making the actual PCB card and wiring the components together! I spe
 ![Image](images/devlog_2.jpeg)
 
 **Total time spent: 1h**
+
+# July 29th: Personalizing the PCB card!
+
+I Personalized the PCB card!!! I added a moon that will light up and stars on the top silk layer. I also added my name and phone number. On the bottom silk layer I have the Chicago skyline!!! I had to move the lighting around so that it can light the moon up and so I had to rewire some of the components. I finished!!!
+
+![Image](images/devlog_3.jpeg)
+
+**Total time spent: 1.5h**
